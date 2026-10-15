@@ -1,0 +1,20 @@
+{
+  "cards": 500,
+  "exports": 500,
+  "accent_exports": 12,
+  "neon_exports": 16,
+  "niche_guides": 107,
+  "seamless": 372,
+  "coverage": {
+    "field": 466,
+    "accent": 34
+  },
+  "css_gzip_bytes": 179936,
+  "asset_bytes": 13530873,
+  "browser_qa": "not covered by automated checks; see docs/QA.md",
+  "js_syntax": "passed",
+  "export_isolation": "passed",
+  "overwrite_protection": "passed",
+  "semantic_tokens": "passed",
+  "live_css_bindings": "passed"
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "grilled-meat-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A continuous close-up surface of grilled beef, evenly distributed diagonal char marks crossing caramelized mahogany brown fibrous meat and tiny glossy fat highlights. The crop is INSIDE a large slab of cooked meat: no steak outline, no plate, no garnish, no grill itself, no utensils. Composition: photograph the material straight-on at macro distance so it fills every edge and every quadrant as one continuous surface, no isolated object, no empty text zone, no collage. Restrained editorial food/material photography, physically believable microtexture, soft even light with low directional contrast. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/grilled-meat-photo.png",
+    "master_sha256": "ea7eb20f0b057ef7954ae151dcf7294bc27364cc002d40ffbeb0515b409626e2",
+    "source_generation_file": "exec-2a832bc4-25bb-4956-bac7-9cb7efc1e574.png"
+  },
+  {
+    "id": "marbled-beef-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: Extreme close-up of richly marbled raw beef: irregular branching ivory fat veins inside deep natural red muscle tissue, finely detailed moist texture. The entire crop lies inside the meat, no steak silhouette, no butcher scene, no bones, no tray. Composition: photograph the material straight-on at macro distance so it fills every edge and every quadrant as one continuous surface, no isolated object, no empty text zone, no collage. Restrained editorial food/material photography, physically believable microtexture, soft even light with low directional contrast. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/marbled-beef-photo.png",
+    "master_sha256": "6804931803044c1d41638948956deee63cb2ee9074a8b19ba8629fb65c70650f",
+    "source_generation_file": "exec-98dd8aac-8297-4c44-8466-e60d15f19c8d.png"
+  },
+  {
+    "id": "seedless-watermelon-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: Macro flesh of a SEEDLESS watermelon: luminous watermelon-red translucent watery cells, subtle natural granular fibres and juice facets. Absolutely NO black seeds, NO white seeds, NO rind, NO fruit outline, NO slices, NO knife. Composition: photograph the material straight-on at macro distance so it fills every edge and every quadrant as one continuous surface, no isolated object, no empty text zone, no collage. Restrained editorial food/material photography, physically believable microtexture, soft even light with low directional contrast. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/seedless-watermelon-photo.png",
+    "master_sha256": "2ff2c7e6437e496b05a8852966fa18d64d1ed3d61b19cbadca65d27f2ad1acf3",
+    "source_generation_file": "exec-ed644cad-b11a-4429-8d83-88e949c2dcfe.png"
+  },
+  {
+    "id": "mango-flesh-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: Macro surface of ripe mango flesh, rich golden yellow with subtle orange depths, smooth juicy pulp crossed by extremely fine soft fibres. Crop entirely inside the cut flesh, absolutely no pit, no skin, no fruit outline, no cubes, no plate. Composition: photograph the material straight-on at macro distance so it fills every edge and every quadrant as one continuous surface, no isolated object, no empty text zone, no collage. Restrained editorial food/material photography, physically believable microtexture, soft even light with low directional contrast. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/mango-flesh-photo.png",
+    "master_sha256": "0bef9b46a0e9dd3f0033624e082a4b5812ba933e7ad8f4054e9f7b4c6cb3a241",
+    "source_generation_file": "exec-23babd28-a6c0-4123-9ae0-f2ff8ada4cb9.png"
+  },
+  {
+    "id": "crystallized-honey-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: Macro continuous surface of pale amber honey that has partly crystallized: fine sugar grain clusters merging into glossy honey, subtle golden translucent creases, not a honeycomb and not poured ribbons. No jar, spoon, bee or isolated droplets. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/crystallized-honey-photo.png",
+    "master_sha256": "4e31d5d804021c821029610f25146687d2b5bf4e61802f407e996214c4d83e96",
+    "source_generation_file": "exec-510bfae7-8f5c-497f-8eaa-cfbae35edae3.png"
+  },
+  {
+    "id": "full-grain-leather-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A continuous full-grain cognac leather surface with small natural irregular pebble pores, gentle folds and soft waxy sheen, refined leather-goods material. No bag, handle, stitches, seams, labels or object outline. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/full-grain-leather-photo.png",
+    "master_sha256": "3504611f163d8e2380fdd21d894f2a679e2f053726d3c7f96293795e3e74761f",
+    "source_generation_file": "exec-e09a5fc4-75c7-4d7e-8df8-a2d675f566d6.png"
+  },
+  {
+    "id": "suede-nap-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A continuous sand-beige suede surface, dense velvety short nap with subtle brushed directions, soft diffuse material shading and fine hairs. No seams, fabric weave, bag outline or fashion scene. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/suede-nap-photo.png",
+    "master_sha256": "5251e55f6ae6890e7a8c0458365e80719433e7df57513c3232a70ebd5473f6f9",
+    "source_generation_file": "exec-434be660-02e2-4ae8-ae3b-4b6fbd84c12f.png"
+  },
+  {
+    "id": "saffiano-leather-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A full-frame sheet of near-black Saffiano leather with precise tiny diagonally crossed embossed ridges. Genuine photographed leather microtexture with subdued waxed highlights. No bag, stitching, zipper or logos. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/saffiano-leather-photo.png",
+    "master_sha256": "319a19c5b969bcb9ef450c3de04312f98295b85af8b3818a8e1d38cbf51f7db2",
+    "source_generation_file": "exec-8009a3cc-f708-42f4-996a-eb7c9eda495e.png"
+  },
+  {
+    "id": "sand-grains-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: Dense dry fine beige sand seen from straight above at macro scale: quartz grains and tiny opaque mineral flecks, natural uneven grain sizes, flat evenly spread layer, no ripples or dunes. No shell, footprint, objects or horizon. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/sand-grains-photo.png",
+    "master_sha256": "2f93926d5d6d89309e6a395cb11f02f413c8b1dc1b16464181319f687669136e",
+    "source_generation_file": "exec-7b9fbf6d-5464-4030-8b93-fd1847a0a0c6.png"
+  },
+  {
+    "id": "river-pebbles-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: Tightly packed smooth rounded river pebbles filling the complete frame, varying sizes in warm gray, cream, muted brown and charcoal, narrow irregular gaps, dry matte stone surfaces under soft overcast light. No water, shoreline, horizon or isolated stone. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/river-pebbles-photo.png",
+    "master_sha256": "412746d96f6fa526892e48a3a6f5ba5caa43f7d7f606ea60b5c4ce499fd8d18d",
+    "source_generation_file": "exec-cb77370c-864f-4518-b087-510cec06e441.png"
+  },
+  {
+    "id": "garden-soil-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A continuous macro layer of dark fertile garden soil, varied crumbly earth aggregates and tiny porous particles with a few subtle organic fibres. Natural moist brown, evenly spread, no plant, worm, tools, flowerpot or backdrop. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/garden-soil-photo.png",
+    "master_sha256": "203d5dc7f9fc34f1a896dd84d25beccf075f8f22467a8361d82b148939be9cd5",
+    "source_generation_file": "exec-840c0a81-e924-4bec-a9c9-0790e0cff2eb.png"
+  },
+  {
+    "id": "zinc-etched-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: The macro surface of an acid-etched zinc printing plate without any printed image: fine irregular etched pits, softly mottled cool silvery-gray matte metal, subtle worn microtexture, not large galvanized spangles, no engravings, letters or plate edges. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/zinc-etched-photo.png",
+    "master_sha256": "c5d1a12bf362f828faf959c1276651d6e61c9a55cd1fc38cd1011330182625ee",
+    "source_generation_file": "exec-faae1194-d18d-4c0b-9c98-13bdabbc3043.png"
+  },
+  {
+    "id": "vanadium-metal-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A continuous silvery cool-gray metallic vanadium-like surface, restrained metallic reflection, many fine irregular intersecting polishing marks and very subtle metal grains. No rainbow tint, no oxide colors, no chemical symbols, specimen lumps or metal edges. This is a visual material study, not scientific microscopy. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/vanadium-metal-photo.png",
+    "master_sha256": "8ac2570a92def58618968a74d400a09bb496acad459408858925799786aea9a7",
+    "source_generation_file": "exec-f5a2e453-3d10-47ec-bba3-f783092803c7.png"
+  },
+  {
+    "id": "matte-plastic-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A continuous cream-colored injection-moulded ABS plastic surface with extremely fine uniform pebble microtexture and broad soft studio reflection, refined dry matte finish. No moulded object, edges, logos, cracks, wood or stone texture. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/matte-plastic-photo.png",
+    "master_sha256": "5841693e9612d5a179148515e60d18a66c54930c656aae21095ab223a0148697",
+    "source_generation_file": "exec-1cae582b-80e8-4bbd-b14a-cb3aef045011.png"
+  },
+  {
+    "id": "woods-alloy-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A continuous gray silvery low-melting Wood's metal alloy-like solid surface, subtle frozen-flow undulations and small irregular dull metallic crystallized domains, uneven micrograin, soft cool reflections. No wood texture, no hot melting scene, no ingot outline, no apparatus or labels. Illustrative material study rather than scientifically validated metallography. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/woods-alloy-photo.png",
+    "master_sha256": "47c46d5d7b0dff3d41cbc8fff5bfa2fad8a907394d913e1f12cb185ff55a6b5d",
+    "source_generation_file": "exec-9125a472-dff7-479a-a1d1-bec8279d9fa7.png"
+  },
+  {
+    "id": "coconut-flesh-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: Extreme macro of fresh white coconut flesh cut surface, delicate ivory-white fine fibrous pulp with tiny moist pores and soft layered cellular striations. Absolutely no brown shell, husk, coconut outline, flakes, dishes or separated chunks. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/coconut-flesh-photo.png",
+    "master_sha256": "ded79c025f9bf935e6154c4530c6f24f03381f74d6eaef67a574ea4b744d7f44",
+    "source_generation_file": "exec-b9889e40-5a85-401c-ae61-bf7b72a9e075.png"
+  },
+  {
+    "id": "latte-uniform-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A completely homogeneous flat coffee latte surface, light warm beige milky coffee colour, exceptionally fine barely visible microfoam distributed uniformly from edge to edge, very smooth low-contrast texture. Absolutely no latte art, no swirl, no coffee-bean motif, no visible cup edge, no spoon, no large bubbles, no gradient with dark corners. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/latte-uniform-photo.png",
+    "master_sha256": "a501513341a6fe40b9f89147e159633969b83f68117bddae58756854b4ec4567",
+    "source_generation_file": "exec-cf8762f4-391e-4485-af34-c24f2ddba46c.png"
+  },
+  {
+    "id": "endgrain-board-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: A close macro crop inside an end-grain oak cutting-board surface, irregular closely packed growth-ring bands, visible radial wood pores and natural warm pale brown fibres. No entire board outline, no saw, no tree trunk silhouette, no cracks dominating the centre, no objects. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/endgrain-board-photo.png",
+    "master_sha256": "19974749a4394d1deea50a5b551f171f60c21ae993531410ee2281cf0ce2cbb5",
+    "source_generation_file": "exec-19739cf7-2a98-4623-b228-3bb829b74fee.png"
+  },
+  {
+    "id": "permanganate-crystals-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: Dense continuous field of small potassium permanganate-like crystals: dark purplish-black angular prismatic grains, subtle metallic violet and deep blue specular edges under controlled soft light, tightly packed naturally varied facets. No bright candy colors, no isolated crystal, no jar, no labels or laboratory setup. This is an artistic material study, not a laboratory measurement. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/permanganate-crystals-photo.png",
+    "master_sha256": "3254646314dd6f08b0f61b16357d407a0078069fb83a5a4ee7c736c3df29f940",
+    "source_generation_file": "exec-4b41e647-ec25-4c4d-a135-6a440082f3d5.png"
+  },
+  {
+    "id": "translucent-resin-photo",
+    "prompt": "Use case: product-mockup. Asset type: full-bleed website material background, wide landscape 16:9. Primary request: Full-frame macro surface of pale translucent amber cast resin, gentle internal refractive depth and subtle tiny trapped microbubbles evenly spread, soft broad highlights, polished smooth surface. No bottle, isolated blob, mould outline, objects or flower inclusions. Composition: the material fills every edge and every quadrant as one continuous photographed surface, no isolated object, no empty text zone, no collage. Restrained editorial macro material photography, physically believable microtexture, soft even light. No text, logos, watermark, border, UI or checkerboard. This is a cover composition, NOT a seamless tile.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master": "masters/translucent-resin-photo.png",
+    "master_sha256": "b265dbd90cee5d128d7764910357a787883f0e033d0803b85f720d9b32653c2e",
+    "source_generation_file": "exec-60245073-2671-429a-bd0e-10aba2c111a5.png"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "marble-mobile.webp": {
+    "dimensions": [
+      800,
+      450
+    ],
+    "bytes": 31866,
+    "alpha_range": null
+  },
+  "prism.webp": {
+    "dimensions": [
+      1440,
+      810
+    ],
+    "bytes": 215246,
+    "alpha_range": [
+      0,
+      253
+    ]
+  },
+  "prism-mobile.webp": {
+    "dimensions": [
+      800,
+      450
+    ],
+    "bytes": 72936,
+    "alpha_range": [
+      0,
+      253
+    ]
+  },
+  "marble.webp": {
+    "dimensions": [
+      1440,
+      810
+    ],
+    "bytes": 80978,
+    "alpha_range": null
+  }
+}

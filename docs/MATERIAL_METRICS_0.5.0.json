@@ -1,0 +1,463 @@
+{
+  "version": "0.5.0",
+  "new_cards": 40,
+  "new_rasters": 10,
+  "new_code": 30,
+  "neon_cards": 16,
+  "new_svg_tiles": 12,
+  "rows": [
+    {
+      "id": "chrome-ribbon",
+      "tech": "CSS",
+      "placement": "cover",
+      "asset_bytes": 0,
+      "css_recipe_gzip_bytes": 362
+    },
+    {
+      "id": "gold-brushed",
+      "tech": "CSS",
+      "placement": "cover",
+      "asset_bytes": 0,
+      "css_recipe_gzip_bytes": 385
+    },
+    {
+      "id": "silver-satin",
+      "tech": "CSS",
+      "placement": "cover",
+      "asset_bytes": 0,
+      "css_recipe_gzip_bytes": 345
+    },
+    {
+      "id": "copper-brushed",
+      "tech": "CSS",
+      "placement": "cover",
+      "asset_bytes": 0,
+      "css_recipe_gzip_bytes": 394
+    },
+    {
+      "id": "titanium-anodized",
+      "tech": "CSS",
+      "placement": "cover",
+      "asset_bytes": 0,
+      "css_recipe_gzip_bytes": 377
+    },
+    {
+      "id": "magnesium-matte",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 20651,
+      "css_recipe_gzip_bytes": 357
+    },
+    {
+      "id": "iron-oxide",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 26266,
+      "css_recipe_gzip_bytes": 353
+    },
+    {
+      "id": "copper-verdigris",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 14553,
+      "css_recipe_gzip_bytes": 358
+    },
+    {
+      "id": "silver-tarnish",
+      "tech": "SVG",
+      "placement": "cover",
+      "asset_bytes": 1844,
+      "css_recipe_gzip_bytes": 345
+    },
+    {
+      "id": "gold-leaf",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 726,
+      "css_recipe_gzip_bytes": 352
+    },
+    {
+      "id": "zinc-spangle",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 757,
+      "css_recipe_gzip_bytes": 355
+    },
+    {
+      "id": "oxidized-bronze",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 22337,
+      "css_recipe_gzip_bytes": 357
+    },
+    {
+      "id": "lacquer-pools",
+      "tech": "CSS",
+      "placement": "cover",
+      "asset_bytes": 0,
+      "css_recipe_gzip_bytes": 415
+    },
+    {
+      "id": "makeup-powder",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 31095,
+      "css_recipe_gzip_bytes": 354
+    },
+    {
+      "id": "foundation-swipe",
+      "tech": "SVG",
+      "placement": "overlay",
+      "asset_bytes": 6708,
+      "css_recipe_gzip_bytes": 343
+    },
+    {
+      "id": "lipstick-strokes",
+      "tech": "SVG",
+      "placement": "overlay",
+      "asset_bytes": 2130,
+      "css_recipe_gzip_bytes": 345
+    },
+    {
+      "id": "skin-microrelief",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 14037,
+      "css_recipe_gzip_bytes": 359
+    },
+    {
+      "id": "spray-stipple",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 37413,
+      "css_recipe_gzip_bytes": 354
+    },
+    {
+      "id": "spray-plume",
+      "tech": "SVG",
+      "placement": "overlay",
+      "asset_bytes": 16821,
+      "css_recipe_gzip_bytes": 340
+    },
+    {
+      "id": "brush-paint",
+      "tech": "SVG",
+      "placement": "cover",
+      "asset_bytes": 7393,
+      "css_recipe_gzip_bytes": 340
+    },
+    {
+      "id": "graffiti-drips",
+      "tech": "SVG",
+      "placement": "overlay",
+      "asset_bytes": 2064,
+      "css_recipe_gzip_bytes": 343
+    },
+    {
+      "id": "graphite-rubbing",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 17626,
+      "css_recipe_gzip_bytes": 360
+    },
+    {
+      "id": "ink-marbling",
+      "tech": "SVG",
+      "placement": "cover",
+      "asset_bytes": 3084,
+      "css_recipe_gzip_bytes": 341
+    },
+    {
+      "id": "paint-splatter",
+      "tech": "SVG",
+      "placement": "overlay",
+      "asset_bytes": 5946,
+      "css_recipe_gzip_bytes": 343
+    },
+    {
+      "id": "oil-suspension",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 1588,
+      "css_recipe_gzip_bytes": 354
+    },
+    {
+      "id": "foam-cells",
+      "tech": "SVG",
+      "placement": "repeat",
+      "asset_bytes": 18143,
+      "css_recipe_gzip_bytes": 355
+    },
+    {
+      "id": "soap-bubbles",
+      "tech": "SVG",
+      "placement": "overlay",
+      "asset_bytes": 1122,
+      "css_recipe_gzip_bytes": 345
+    },
+    {
+      "id": "carbonated-stream",
+      "tech": "SVG",
+      "placement": "overlay",
+      "asset_bytes": 5220,
+      "css_recipe_gzip_bytes": 348
+    },
+    {
+      "id": "milk-folds",
+      "tech": "CSS",
+      "placement": "cover",
+      "asset_bytes": 0,
+      "css_recipe_gzip_bytes": 381
+    },
+    {
+      "id": "gel-ripple",
+      "tech": "CSS",
+      "placement": "cover",
+      "asset_bytes": 0,
+      "css_recipe_gzip_bytes": 378
+    },
+    {
+      "id": "lacquer-liquid-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 19408,
+      "css_recipe_gzip_bytes": 357,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 8744,
+      "mobile_size": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "makeup-skin-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 101564,
+      "css_recipe_gzip_bytes": 356,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 35626,
+      "mobile_size": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "cream-swirl-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 25950,
+      "css_recipe_gzip_bytes": 355,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 11348,
+      "mobile_size": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "berry-smoothie-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 167686,
+      "css_recipe_gzip_bytes": 356,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 65940,
+      "mobile_size": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "green-smoothie-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 85084,
+      "css_recipe_gzip_bytes": 356,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 36212,
+      "mobile_size": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "oil-water-suspension-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 70178,
+      "css_recipe_gzip_bytes": 361,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 30344,
+      "mobile_size": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "microfoam-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 61130,
+      "css_recipe_gzip_bytes": 354,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 24144,
+      "mobile_size": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "spray-paint-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 183644,
+      "css_recipe_gzip_bytes": 355,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 58014,
+      "mobile_size": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "liquid-chrome-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 35504,
+      "css_recipe_gzip_bytes": 356,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 15690,
+      "mobile_size": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "copper-patina-photo",
+      "tech": "WebP",
+      "placement": "cover",
+      "asset_bytes": 288152,
+      "css_recipe_gzip_bytes": 356,
+      "desktop_size": [
+        1440,
+        810
+      ],
+      "mobile_bytes": 86794,
+      "mobile_size": [
+        800,
+        450
+      ]
+    }
+  ],
+  "neon": [
+    {
+      "id": "water-caustics",
+      "asset_bytes": 20390,
+      "css_gzip_bytes": 323
+    },
+    {
+      "id": "orbital-paths",
+      "asset_bytes": 3076,
+      "css_gzip_bytes": 322
+    },
+    {
+      "id": "spark-scatter",
+      "asset_bytes": 33281,
+      "css_gzip_bytes": 322
+    },
+    {
+      "id": "branch-lightning",
+      "asset_bytes": 4135,
+      "css_gzip_bytes": 323
+    },
+    {
+      "id": "corona-streamers",
+      "asset_bytes": 9145,
+      "css_gzip_bytes": 324
+    },
+    {
+      "id": "ion-tracks",
+      "asset_bytes": 8010,
+      "css_gzip_bytes": 320
+    },
+    {
+      "id": "magma-channels",
+      "asset_bytes": 5691,
+      "css_gzip_bytes": 322
+    },
+    {
+      "id": "meteor-streaks",
+      "asset_bytes": 2043,
+      "css_gzip_bytes": 323
+    },
+    {
+      "id": "bioluminescent-wake",
+      "asset_bytes": 22377,
+      "css_gzip_bytes": 326
+    },
+    {
+      "id": "quantum-dot-emission",
+      "asset_bytes": 0,
+      "css_gzip_bytes": 310
+    },
+    {
+      "id": "plasma-orb",
+      "asset_bytes": 0,
+      "css_gzip_bytes": 287
+    },
+    {
+      "id": "halo-rings",
+      "asset_bytes": 0,
+      "css_gzip_bytes": 281
+    },
+    {
+      "id": "sun-pillars",
+      "asset_bytes": 0,
+      "css_gzip_bytes": 287
+    },
+    {
+      "id": "accretion-disk",
+      "asset_bytes": 0,
+      "css_gzip_bytes": 294
+    },
+    {
+      "id": "soap-bubbles",
+      "asset_bytes": 3880,
+      "css_gzip_bytes": 322
+    },
+    {
+      "id": "carbonated-stream",
+      "asset_bytes": 29449,
+      "css_gzip_bytes": 325
+    }
+  ],
+  "note": "Recipe gzip omits export aliases and HTTP headers; compressed SVG transfer requires server compression; painting cost was not benchmarked."
+}

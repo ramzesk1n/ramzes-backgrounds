@@ -1,0 +1,954 @@
+[
+  {
+    "id": "grill-sear-field",
+    "rendered": true,
+    "raw": 32688,
+    "quadrant_alpha": [
+      0.15473201976103207,
+      0.1473039215686295,
+      0.15396537032782137,
+      0.1460365445006156
+    ],
+    "edge_lr": 13.56640625,
+    "edge_tb": 19.44140625,
+    "mean_internal_dx": 10.42685355392157
+  },
+  {
+    "id": "beef-fat-veins",
+    "rendered": true,
+    "raw": 15736,
+    "quadrant_alpha": [
+      0.10430166207107501,
+      0.09937289368872261,
+      0.10134301279105119,
+      0.10265706380208031
+    ],
+    "edge_lr": 15.9453125,
+    "edge_tb": 29.54296875,
+    "mean_internal_dx": 11.292555147058824
+  },
+  {
+    "id": "watermelon-cell-field",
+    "rendered": true,
+    "raw": 58127,
+    "quadrant_alpha": [
+      0.04131194469975421,
+      0.0418121936274501,
+      0.03874798943014643,
+      0.04096942976409242
+    ],
+    "edge_lr": 18.515625,
+    "edge_tb": 14.12109375,
+    "mean_internal_dx": 9.7171875
+  },
+  {
+    "id": "mango-fibre-pulp",
+    "rendered": true,
+    "raw": 36503,
+    "quadrant_alpha": [
+      0.038149126838235466,
+      0.03814864813112777,
+      0.038149126838235466,
+      0.03814864813112777
+    ],
+    "edge_lr": 7.71875,
+    "edge_tb": 2.54296875,
+    "mean_internal_dx": 17.305882352941175
+  },
+  {
+    "id": "coconut-lamellae-field",
+    "rendered": true,
+    "raw": 23593,
+    "quadrant_alpha": [
+      0.02403708065257372,
+      0.023038736979166852,
+      0.023316387101715793,
+      0.02456102558210798
+    ],
+    "edge_lr": 0.77734375,
+    "edge_tb": 24.40625,
+    "mean_internal_dx": 1.06796875
+  },
+  {
+    "id": "honey-crystal-field",
+    "rendered": true,
+    "raw": 37744,
+    "quadrant_alpha": [
+      0.022509286917892203,
+      0.01892807904411776,
+      0.022861136642156936,
+      0.020051365272671696
+    ],
+    "edge_lr": 6.484375,
+    "edge_tb": 4.28515625,
+    "mean_internal_dx": 5.268658088235294
+  },
+  {
+    "id": "latte-microfoam-field",
+    "rendered": true,
+    "raw": 30226,
+    "quadrant_alpha": [
+      0.0016773897058823476,
+      0.0016888786764705829,
+      0.0016888786764705829,
+      0.0016773897058823476
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0,
+    "mean_internal_dx": 0.4308823529411765
+  },
+  {
+    "id": "chocolate-snap-field",
+    "rendered": true,
+    "raw": 12592,
+    "quadrant_alpha": [
+      0.04221358953737787,
+      0.049143353630515106,
+      0.04524284811580931,
+      0.05369370404411807
+    ],
+    "edge_lr": 17.92578125,
+    "edge_tb": 30.1796875,
+    "mean_internal_dx": 11.956265318627452
+  },
+  {
+    "id": "vanadium-polish-field",
+    "rendered": true,
+    "raw": 8973,
+    "quadrant_alpha": [
+      0.030518535539216008,
+      0.03047952090992708,
+      0.0304752125459563,
+      0.030448404947917083
+    ],
+    "edge_lr": 1.5859375,
+    "edge_tb": 2,
+    "mean_internal_dx": 9.407230392156864
+  },
+  {
+    "id": "woods-eutectic-field",
+    "rendered": true,
+    "raw": 30112,
+    "quadrant_alpha": [
+      0.07556152343749879,
+      0.0756670783547783,
+      0.07552681717218017,
+      0.07562375536151848
+    ],
+    "edge_lr": 23.3125,
+    "edge_tb": 17.74609375,
+    "mean_internal_dx": 23.060998774509805
+  },
+  {
+    "id": "zinc-etch-pits",
+    "rendered": true,
+    "raw": 25133,
+    "quadrant_alpha": [
+      0.056840485217524425,
+      0.05688596239276951,
+      0.057675829120710696,
+      0.05620571959252449
+    ],
+    "edge_lr": 2.84765625,
+    "edge_tb": 3.015625,
+    "mean_internal_dx": 3.55390625
+  },
+  {
+    "id": "nickel-nodule-field",
+    "rendered": true,
+    "raw": 47053,
+    "quadrant_alpha": [
+      0.07824324065563615,
+      0.08114540249693457,
+      0.08189649394914088,
+      0.0784928864123764
+    ],
+    "edge_lr": 34.58203125,
+    "edge_tb": 22.75,
+    "mean_internal_dx": 19.045572916666668
+  },
+  {
+    "id": "shot-peened-steel-field",
+    "rendered": true,
+    "raw": 25583,
+    "quadrant_alpha": [
+      0.02936892041973055,
+      0.02152506510416678,
+      0.022054754518995263,
+      0.023899931066176678
+    ],
+    "edge_lr": 4.44921875,
+    "edge_tb": 4.77734375,
+    "mean_internal_dx": 6.181050857843137
+  },
+  {
+    "id": "metal-powder-sinter-field",
+    "rendered": true,
+    "raw": 12341,
+    "quadrant_alpha": [
+      0.04358340992647211,
+      0.04358340992647211,
+      0.04358340992647211,
+      0.04358340992647211
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0.078125,
+    "mean_internal_dx": 7.988725490196078
+  },
+  {
+    "id": "polycarbonate-twinwall",
+    "rendered": true,
+    "raw": 3454,
+    "quadrant_alpha": [
+      0.03877144607843262,
+      0.03877144607843262,
+      0.03842869178921725,
+      0.03842869178921725
+    ],
+    "edge_lr": 0,
+    "edge_tb": 11.1875,
+    "mean_internal_dx": 9.256617647058823
+  },
+  {
+    "id": "injection-gate-flow",
+    "rendered": true,
+    "raw": 7396,
+    "quadrant_alpha": [
+      0.0263647939644608,
+      0.026845894607843142,
+      0.026847091375612753,
+      0.02636503331801472
+    ],
+    "edge_lr": 8.9765625,
+    "edge_tb": 9.0234375,
+    "mean_internal_dx": 8.703645833333333
+  },
+  {
+    "id": "polyethylene-film-creases",
+    "rendered": true,
+    "raw": 8116,
+    "quadrant_alpha": [
+      0.02972914751838218,
+      0.023391783471200935,
+      0.026230995327818495,
+      0.02691363166360269
+    ],
+    "edge_lr": 15.78125,
+    "edge_tb": 6.53125,
+    "mean_internal_dx": 7.062193627450981
+  },
+  {
+    "id": "silicone-grip-microdots",
+    "rendered": true,
+    "raw": 28575,
+    "quadrant_alpha": [
+      0.040579044117646866,
+      0.040579044117646866,
+      0.040579044117646866,
+      0.040579044117646866
+    ],
+    "edge_lr": 0.0625,
+    "edge_tb": 0.0625,
+    "mean_internal_dx": 7.435049019607843
+  },
+  {
+    "id": "recycled-plastic-flakes",
+    "rendered": true,
+    "raw": 24258,
+    "quadrant_alpha": [
+      0.06393707873774683,
+      0.05820815142463374,
+      0.057323021982231576,
+      0.07136254404105595
+    ],
+    "edge_lr": 2.98046875,
+    "edge_tb": 3.328125,
+    "mean_internal_dx": 3.389139093137255
+  },
+  {
+    "id": "vinyl-calandering",
+    "rendered": true,
+    "raw": 45859,
+    "quadrant_alpha": [
+      0.025271187576593426,
+      0.025521312040441446,
+      0.0251371495863973,
+      0.02512518190870123
+    ],
+    "edge_lr": 0.69140625,
+    "edge_tb": 29.609375,
+    "mean_internal_dx": 0.7784160539215687
+  },
+  {
+    "id": "acrylic-crazing",
+    "rendered": true,
+    "raw": 12379,
+    "quadrant_alpha": [
+      0.030344286151960772,
+      0.028152765012254867,
+      0.03016022326899512,
+      0.030641084558823584
+    ],
+    "edge_lr": 6.765625,
+    "edge_tb": 17.7421875,
+    "mean_internal_dx": 8.43109681372549
+  },
+  {
+    "id": "soil-aggregate-field",
+    "rendered": true,
+    "raw": 32962,
+    "quadrant_alpha": [
+      0.053629796645220704,
+      0.054757391237745305,
+      0.05502786075367667,
+      0.048038736979166746
+    ],
+    "edge_lr": 23.04296875,
+    "edge_tb": 25.984375,
+    "mean_internal_dx": 13.27703737745098
+  },
+  {
+    "id": "loam-root-section",
+    "rendered": true,
+    "raw": 20171,
+    "quadrant_alpha": [
+      0.035554294960171796,
+      0.03550786037071101,
+      0.034027937346813725,
+      0.029421578201593124
+    ],
+    "edge_lr": 10.82421875,
+    "edge_tb": 2.65625,
+    "mean_internal_dx": 10.363403799019608
+  },
+  {
+    "id": "quartz-sorted-grains",
+    "rendered": true,
+    "raw": 60036,
+    "quadrant_alpha": [
+      0.050208237591911,
+      0.048800359987744193,
+      0.04996266084558752,
+      0.04999976064644512
+    ],
+    "edge_lr": 21.703125,
+    "edge_tb": 23.47265625,
+    "mean_internal_dx": 12.809650735294118
+  },
+  {
+    "id": "river-cobble-mosaic",
+    "rendered": true,
+    "raw": 16310,
+    "quadrant_alpha": [
+      0.04708491306678931,
+      0.05081619561887274,
+      0.05421118642769615,
+      0.0517807904411767
+    ],
+    "edge_lr": 27.63671875,
+    "edge_tb": 18.86328125,
+    "mean_internal_dx": 11.864261642156864
+  },
+  {
+    "id": "volcanic-ash-field",
+    "rendered": true,
+    "raw": 52099,
+    "quadrant_alpha": [
+      0.11308210784314121,
+      0.1430903416053993,
+      0.10777252795649937,
+      0.11192004633885219
+    ],
+    "edge_lr": 4.203125,
+    "edge_tb": 9.546875,
+    "mean_internal_dx": 6.377113970588235
+  },
+  {
+    "id": "silt-lamination",
+    "rendered": true,
+    "raw": 39803,
+    "quadrant_alpha": [
+      0.03662181181066182,
+      0.03686714920343144,
+      0.037702493106617725,
+      0.03777501723345595
+    ],
+    "edge_lr": 2.32421875,
+    "edge_tb": 16.0625,
+    "mean_internal_dx": 2.1777726715686274
+  },
+  {
+    "id": "saffiano-crosshatch",
+    "rendered": true,
+    "raw": 21421,
+    "quadrant_alpha": [
+      0.08246017156862886,
+      0.08246017156862886,
+      0.08246017156862886,
+      0.08246017156862886
+    ],
+    "edge_lr": 6.5,
+    "edge_tb": 19.3125,
+    "mean_internal_dx": 25.590196078431372
+  },
+  {
+    "id": "pebbled-leather-large",
+    "rendered": true,
+    "raw": 31015,
+    "quadrant_alpha": [
+      0.05050144569546543,
+      0.04940161611519579,
+      0.05122501148897018,
+      0.05066396675857811
+    ],
+    "edge_lr": 22.58984375,
+    "edge_tb": 15.859375,
+    "mean_internal_dx": 13.99903492647059
+  },
+  {
+    "id": "saddle-creased-leather",
+    "rendered": true,
+    "raw": 24250,
+    "quadrant_alpha": [
+      0.014054361979166775,
+      0.009148571537990249,
+      0.009064558440563782,
+      0.0155297372855393
+    ],
+    "edge_lr": 0.91015625,
+    "edge_tb": 4.03515625,
+    "mean_internal_dx": 1.252374387254902
+  },
+  {
+    "id": "stitched-leather-panels",
+    "rendered": true,
+    "raw": 17118,
+    "quadrant_alpha": [
+      0.022458065257353055,
+      0.022458065257353055,
+      0.022458065257353055,
+      0.022458065257353055
+    ],
+    "edge_lr": 1.75,
+    "edge_tb": 11.734375,
+    "mean_internal_dx": 2.5061274509803924
+  },
+  {
+    "id": "perforated-upholstery-leather",
+    "rendered": true,
+    "raw": 43120,
+    "quadrant_alpha": [
+      0.03280460133271998,
+      0.03283452052696016,
+      0.03263609643075918,
+      0.03284313725490134
+    ],
+    "edge_lr": 0.14453125,
+    "edge_tb": 0.0625,
+    "mean_internal_dx": 7.573881740196079
+  },
+  {
+    "id": "tooled-leather-scrollwork",
+    "rendered": true,
+    "raw": 7875,
+    "quadrant_alpha": [
+      0.03221698835784326,
+      0.03221698835784326,
+      0.03221698835784326,
+      0.03221698835784326
+    ],
+    "edge_lr": 1.859375,
+    "edge_tb": 2.484375,
+    "mean_internal_dx": 8.695649509803921
+  },
+  {
+    "id": "permanganate-facet-field",
+    "rendered": true,
+    "raw": 31520,
+    "quadrant_alpha": [
+      0.01794122434129913,
+      0.026291551776960815,
+      0.027159926470588274,
+      0.021909227558210877
+    ],
+    "edge_lr": 6.18359375,
+    "edge_tb": 3.73046875,
+    "mean_internal_dx": 5.738465073529412
+  },
+  {
+    "id": "dendritic-solidification",
+    "rendered": true,
+    "raw": 12132,
+    "quadrant_alpha": [
+      0.03157623889399526,
+      0.03158054725796585,
+      0.031137025122549185,
+      0.03158054725796585
+    ],
+    "edge_lr": 11.20703125,
+    "edge_tb": 4.578125,
+    "mean_internal_dx": 11.486534926470588
+  },
+  {
+    "id": "cobweb-fine-sheet",
+    "rendered": true,
+    "raw": 12540,
+    "quadrant_alpha": [
+      0.011101217830882405,
+      0.011639523973652024,
+      0.011309934129901998,
+      0.012068445542279456
+    ],
+    "edge_lr": 1.0859375,
+    "edge_tb": 0.9921875,
+    "mean_internal_dx": 2.7543504901960785
+  },
+  {
+    "id": "cobweb-draped-field",
+    "rendered": true,
+    "raw": 6470,
+    "quadrant_alpha": [
+      0.007621735217524558,
+      0.006179390701593166,
+      0.008089192708333366,
+      0.009073653875612785
+    ],
+    "edge_lr": 0.33203125,
+    "edge_tb": 0.3515625,
+    "mean_internal_dx": 2.348360906862745
+  },
+  {
+    "id": "dandelion-pappus-field",
+    "rendered": true,
+    "raw": 23552,
+    "quadrant_alpha": [
+      0.01607857498468154,
+      0.015780819163603108,
+      0.016113520603554126,
+      0.01584161496629919
+    ],
+    "edge_lr": 1.48046875,
+    "edge_tb": 0.52734375,
+    "mean_internal_dx": 4.358930759803922
+  },
+  {
+    "id": "fern-sporangia-field",
+    "rendered": true,
+    "raw": 17554,
+    "quadrant_alpha": [
+      0.019344554227941294,
+      0.0189728381587011,
+      0.016537894454656987,
+      0.019049910003063854
+    ],
+    "edge_lr": 0.1484375,
+    "edge_tb": 5.7734375,
+    "mean_internal_dx": 5.066605392156863
+  },
+  {
+    "id": "moss-cushion-field",
+    "rendered": true,
+    "raw": 27123,
+    "quadrant_alpha": [
+      0.041572840073529245,
+      0.0401678347120096,
+      0.04118077895220576,
+      0.04239310470281861
+    ],
+    "edge_lr": 6.875,
+    "edge_tb": 8,
+    "mean_internal_dx": 11.892310049019608
+  },
+  {
+    "id": "lichen-islands-field",
+    "rendered": true,
+    "raw": 56585,
+    "quadrant_alpha": [
+      0.03087301815257367,
+      0.028291829427083404,
+      0.02973082299325992,
+      0.029076669730392236
+    ],
+    "edge_lr": 3.48828125,
+    "edge_tb": 13.546875,
+    "mean_internal_dx": 8.038495710784314
+  },
+  {
+    "id": "corduroy-nap-ribs",
+    "rendered": true,
+    "raw": 27033,
+    "quadrant_alpha": [
+      0.12696078431371988,
+      0.12696078431371988,
+      0.12694355085783754,
+      0.12694355085783754
+    ],
+    "edge_lr": 0,
+    "edge_tb": 8.5625,
+    "mean_internal_dx": 28.38921568627451
+  },
+  {
+    "id": "rib-knit-columns",
+    "rendered": true,
+    "raw": 24894,
+    "quadrant_alpha": [
+      0.14250919117647162,
+      0.14250919117647162,
+      0.13934589460784483,
+      0.13934589460784483
+    ],
+    "edge_lr": 1.74609375,
+    "edge_tb": 19.0625,
+    "mean_internal_dx": 32.34707414215686
+  },
+  {
+    "id": "woven-wire-cloth",
+    "rendered": true,
+    "raw": 25027,
+    "quadrant_alpha": [
+      0.10540747549019643,
+      0.10540747549019643,
+      0.10540747549019643,
+      0.10540747549019643
+    ],
+    "edge_lr": 0.1875,
+    "edge_tb": 0.1875,
+    "mean_internal_dx": 12.94044117647059
+  },
+  {
+    "id": "terry-loop-pile",
+    "rendered": true,
+    "raw": 38938,
+    "quadrant_alpha": [
+      0.06315223843443586,
+      0.06351797066482794,
+      0.059795544194239623,
+      0.06192291858149454
+    ],
+    "edge_lr": 16.82421875,
+    "edge_tb": 24.52734375,
+    "mean_internal_dx": 16.24030330882353
+  },
+  {
+    "id": "laser-crosshatch-field",
+    "rendered": true,
+    "raw": 4383,
+    "quadrant_alpha": [
+      0.04857536764705844,
+      0.04857536764705844,
+      0.04857536764705844,
+      0.04857536764705844
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0,
+    "mean_internal_dx": 6.47843137254902
+  },
+  {
+    "id": "stamped-rosette-dimples",
+    "rendered": true,
+    "raw": 43580,
+    "quadrant_alpha": [
+      0.03149892769607846,
+      0.03149892769607846,
+      0.03149892769607846,
+      0.03149892769607846
+    ],
+    "edge_lr": 0.125,
+    "edge_tb": 0.0625,
+    "mean_internal_dx": 7.605392156862745
+  },
+  {
+    "id": "milled-pocket-array",
+    "rendered": true,
+    "raw": 20003,
+    "quadrant_alpha": [
+      0.06522863051470132,
+      0.06522863051470132,
+      0.06522863051470132,
+      0.06522863051470132
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0,
+    "mean_internal_dx": 5.946078431372549
+  },
+  {
+    "id": "waterjet-striation-field",
+    "rendered": true,
+    "raw": 35856,
+    "quadrant_alpha": [
+      0.04607627719056374,
+      0.05374660117953462,
+      0.053987630208333456,
+      0.04628523284313733
+    ],
+    "edge_lr": 17.91796875,
+    "edge_tb": 2.77734375,
+    "mean_internal_dx": 21.600199142156864
+  },
+  {
+    "id": "braided-data-streams",
+    "rendered": true,
+    "raw": 20680,
+    "quadrant_alpha": [
+      0.029914407169117897,
+      0.029914407169117894,
+      0.029914407169117897,
+      0.029914407169117894
+    ],
+    "edge_lr": 10.6875,
+    "edge_tb": 14.6953125,
+    "mean_internal_dx": 4.563970588235295
+  },
+  {
+    "id": "node-weight-matrix",
+    "rendered": true,
+    "raw": 29836,
+    "quadrant_alpha": [
+      0.02369887408088129,
+      0.023701028262867487,
+      0.023701028262867487,
+      0.02369887408088129
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0.0625,
+    "mean_internal_dx": 3.361764705882353
+  },
+  {
+    "id": "adaptive-cell-map",
+    "rendered": true,
+    "raw": 13148,
+    "quadrant_alpha": [
+      0.03991340188419001,
+      0.03995935776654253,
+      0.03994475719975367,
+      0.039930874693625794
+    ],
+    "edge_lr": 5.125,
+    "edge_tb": 3.375,
+    "mean_internal_dx": 6.10297181372549
+  },
+  {
+    "id": "variable-density-bars",
+    "rendered": true,
+    "raw": 8998,
+    "quadrant_alpha": [
+      0.05598958333333299,
+      0.05897097120098006,
+      0.05897097120098006,
+      0.05902841605392121
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0,
+    "mean_internal_dx": 12.451593137254902
+  },
+  {
+    "id": "geodesic-connection-field",
+    "rendered": true,
+    "raw": 4796,
+    "quadrant_alpha": [
+      0.013094554227941231,
+      0.013095511642156917,
+      0.013094554227941231,
+      0.013095511642156917
+    ],
+    "edge_lr": 8.65625,
+    "edge_tb": 8.375,
+    "mean_internal_dx": 3.8920343137254902
+  },
+  {
+    "id": "quantized-isoline-map",
+    "rendered": true,
+    "raw": 6099,
+    "quadrant_alpha": [
+      0.04057138480391955,
+      0.04057138480391956,
+      0.04057138480391956,
+      0.04057138480391955
+    ],
+    "edge_lr": 0.2734375,
+    "edge_tb": 0.265625,
+    "mean_internal_dx": 4.876991421568627
+  },
+  {
+    "id": "merge-branch-lanes",
+    "rendered": true,
+    "raw": 20559,
+    "quadrant_alpha": [
+      0.02926240808823571,
+      0.02926240808823571,
+      0.02926240808823571,
+      0.02926240808823571
+    ],
+    "edge_lr": 0,
+    "edge_tb": 12.375,
+    "mean_internal_dx": 1.6107843137254902
+  },
+  {
+    "id": "hydraulic-channel-field",
+    "rendered": true,
+    "raw": 5757,
+    "quadrant_alpha": [
+      0.053123085171567816,
+      0.053123085171567816,
+      0.053123085171567816,
+      0.053123085171567816
+    ],
+    "edge_lr": 0,
+    "edge_tb": 1.765625,
+    "mean_internal_dx": 5.15
+  },
+  {
+    "id": "microfluidic-labyrinth",
+    "rendered": true,
+    "raw": 1441,
+    "quadrant_alpha": [
+      0.030800015318627836,
+      0.030800015318627836,
+      0.030800015318627836,
+      0.030800015318627836
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0,
+    "mean_internal_dx": 3.817892156862745
+  },
+  {
+    "id": "section-hatching-cells",
+    "rendered": true,
+    "raw": 2559,
+    "quadrant_alpha": [
+      0.05598288143382107,
+      0.05598288143382107,
+      0.05598288143382107,
+      0.05598288143382107
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0,
+    "mean_internal_dx": 15.54142156862745
+  },
+  {
+    "id": "assembly-exploded-rhythm",
+    "rendered": true,
+    "raw": 5467,
+    "quadrant_alpha": [
+      0.02830116421568679,
+      0.02830116421568679,
+      0.02830116421568679,
+      0.02830116421568679
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0,
+    "mean_internal_dx": 4.805882352941176
+  },
+  {
+    "id": "mechanical-linkage-field",
+    "rendered": true,
+    "raw": 17562,
+    "quadrant_alpha": [
+      0.03605621936274418,
+      0.03605621936274418,
+      0.03605621936274418,
+      0.03605621936274418
+    ],
+    "edge_lr": 0.0625,
+    "edge_tb": 0,
+    "mean_internal_dx": 4.537009803921569
+  },
+  {
+    "id": "optical-path-matrix",
+    "rendered": true,
+    "raw": 7351,
+    "quadrant_alpha": [
+      0.020310585171568453,
+      0.020310585171568453,
+      0.020310585171568453,
+      0.020310585171568453
+    ],
+    "edge_lr": 3.28125,
+    "edge_tb": 1.65625,
+    "mean_internal_dx": 4.034191176470588
+  },
+  {
+    "id": "truchet-double-arc-field",
+    "rendered": true,
+    "raw": 11195,
+    "quadrant_alpha": [
+      0.04363606770833293,
+      0.04363606770833293,
+      0.04363558900122511,
+      0.04363558900122511
+    ],
+    "edge_lr": 0.015625,
+    "edge_tb": 0.046875,
+    "mean_internal_dx": 12.227267156862744
+  },
+  {
+    "id": "chevron-channel-grid",
+    "rendered": true,
+    "raw": 12690,
+    "quadrant_alpha": [
+      0.02530541513480391,
+      0.02530541513480391,
+      0.02530541513480391,
+      0.02530541513480391
+    ],
+    "edge_lr": 0.09375,
+    "edge_tb": 7.8828125,
+    "mean_internal_dx": 8.209191176470588
+  },
+  {
+    "id": "triangular-stipple-tiles",
+    "rendered": true,
+    "raw": 28964,
+    "quadrant_alpha": [
+      0.003293504901960774,
+      0.003255208333333323,
+      0.003255208333333323,
+      0.003255208333333323
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0,
+    "mean_internal_dx": 0.8357843137254902
+  },
+  {
+    "id": "superellipse-interlock",
+    "rendered": true,
+    "raw": 2535,
+    "quadrant_alpha": [
+      0.022392003676470675,
+      0.022392003676470675,
+      0.022392003676470675,
+      0.022392003676470675
+    ],
+    "edge_lr": 0,
+    "edge_tb": 0,
+    "mean_internal_dx": 4.69656862745098
+  },
+  {
+    "id": "pressed-powder-relief",
+    "rendered": true,
+    "raw": 17330,
+    "quadrant_alpha": [
+      0.042838062959559095,
+      0.0419110466452208,
+      0.04309297449448559,
+      0.039951459099265084
+    ],
+    "edge_lr": 28.234375,
+    "edge_tb": 26.0078125,
+    "mean_internal_dx": 11.211274509803921
+  },
+  {
+    "id": "cosmetic-mica-platelets",
+    "rendered": true,
+    "raw": 32681,
+    "quadrant_alpha": [
+      0.011237410003063796,
+      0.00878978056066183,
+      0.012316176470588356,
+      0.014075185738357943
+    ],
+    "edge_lr": 1.9375,
+    "edge_tb": 2.71484375,
+    "mean_internal_dx": 3.041176470588235
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "paper": {
+    "edge_x_mean": 0.36328125,
+    "edge_y_mean": 0.24609375
+  },
+  "microcement": {
+    "edge_x_mean": 0.91015625,
+    "edge_y_mean": 0.48828125
+  },
+  "linen": {
+    "edge_x_mean": 0,
+    "edge_y_mean": 0
+  },
+  "wood-grain": {
+    "edge_x_mean": 0.703125,
+    "edge_y_mean": 7.453125
+  },
+  "note": "Adjacent samples at a continuous periodic boundary need not have equal alpha. Linen exact phase check passed; metrics are diagnostic, not a browser/perception guarantee."
+}

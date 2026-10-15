@@ -1,0 +1,29 @@
+{
+  "version": "1.1.0",
+  "cards": 500,
+  "niche_guides": 107,
+  "technology": {
+    "CSS": 61,
+    "SVG": 381,
+    "WebP": 58
+  },
+  "placement": {
+    "repeat": 372,
+    "cover": 114,
+    "overlay": 14
+  },
+  "coverage": {
+    "field": 466,
+    "accent": 34
+  },
+  "added": 100,
+  "added_css": 12,
+  "added_svg": 68,
+  "added_rasters": 20,
+  "new_svg_raw_max": 60036,
+  "new_svg_gzip_median": 2871.5,
+  "new_svg_gzip_max": 21087,
+  "new_desktop_webp_min": 38286,
+  "new_desktop_webp_max": 225542,
+  "client_js_bytes": 0
+}

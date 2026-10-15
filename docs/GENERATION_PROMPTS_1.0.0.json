@@ -1,0 +1,162 @@
+[
+  {
+    "id": "crude-oil-photo",
+    "master": "masters/crude-oil-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro full-frame surface of dense glossy black crude-oil-like liquid, broad flowing ridges and subtle black-brown reflective bands distributed throughout the frame, delicate studio reflections, no spill scene, no equipment, no single isolated blob. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "ea4f0c1fac9699e813bf3cd1aecdcfbe4b9c2a88707752411c869842f8cef288"
+  },
+  {
+    "id": "amber-oil-photo",
+    "master": "masters/amber-oil-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro full-frame translucent golden amber lubricating oil, many broad overlapping viscous wavelets and meniscus highlights covering the whole field, refined low-contrast studio backlight, no vessel or isolated drop. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "0ec4b669aded8fbdb3cabccf6b8de075a40659b01ba5d9177f4d750f4630d3f0"
+  },
+  {
+    "id": "gas-condensate-photo",
+    "master": "masters/gas-condensate-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Abstract photorealistic full-frame field of cold condensate haze and tiny transparent beads, pale silvery white vapor-like layers distributed across the entire image, nuanced depth with fine condensed droplets. Artistic gas-industry material backdrop, not colored natural gas, no pipe, flare or single cloud object. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "936ad7eeb03c4db129be4516464e2be89e0c6ee8224c2271eb8f98c4c7ec090c"
+  },
+  {
+    "id": "orange-peel-photo",
+    "master": "masters/orange-peel-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Extreme macro full-frame fresh orange peel, dense small natural citrus pores and subtle uneven dimple structure, orange color, diffused light, uniform optical sharpness and pattern density across the whole frame, no fruit silhouette, no white gaps. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "db74b8e06c398df954bc292ae872069a1541ae5a96bb13cc373d9791fc70d7bf"
+  },
+  {
+    "id": "citrus-slices-photo",
+    "master": "masters/citrus-slices-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Flat lay macro entire frame densely covered edge-to-edge with overlapping thin fresh orange half-moon slices and cross-section segments, translucent juicy pulp cells, orange peel rims and pale membranes, natural unarranged mosaic, diffused light, no plate, no isolated hero slice, no empty left side. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "a1090f6004b5e84590baa3f4155f83ebb5afdde00ef2dd898fede95d827605b7"
+  },
+  {
+    "id": "fruit-mosaic-photo",
+    "master": "masters/fruit-mosaic-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro overhead whole frame filled edge-to-edge with a natural fruit mosaic of small citrus segments, kiwi cross sections, strawberry sections and blueberry clusters, visible juicy flesh and tiny seeds, appetizing believable colors, no bowl or utensils, no central lone object, even distribution. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "71b3c2975ed9459ea3afe2c46289ff42fc904251724d0daefd1139b5c6351c26"
+  },
+  {
+    "id": "rope-fiber-photo",
+    "master": "masters/rope-fiber-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Extreme macro full-frame field of coarse natural sisal rope fibers, several adjacent tightly twisted rope strands filling entire width, visible tiny flyaway hairs and overlapping bundles, warm beige natural fiber, grazing soft light, no knot, isolated rope or empty background. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "82cb64a15391954c8ccadbbc8bc68dce7affecd883f66300dae9be98cf81d563"
+  },
+  {
+    "id": "hemp-tow-photo",
+    "master": "masters/hemp-tow-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro full-frame undyed industrial hemp fiber tow and rough plant fibers, loose interwoven elongated straw-colored strands with subtle tangles covering all the image, tactile matte natural material, no hemp leaves, cannabis flower, labels or tools. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "90f6e07a41ca0c2ee44970f535fadfb2c16a9e9c6ed89a9c3dd041da0bf04402"
+  },
+  {
+    "id": "spider-silk-photo",
+    "master": "masters/spider-silk-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro entire frame covered by an irregular layered network of delicate spider silk threads with tiny clear dew beads, fine translucent strands distributed edge-to-edge, subtly dark cool neutral background, no spider, no single centered radial web, no empty composition. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "cfd2a5b05beeba6d718e7a88ef638dd38db789e9a326a12acd56401b53fc9408"
+  },
+  {
+    "id": "snow-crystals-photo",
+    "master": "masters/snow-crystals-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro full-frame snow crystal texture, many overlapping delicate sixfold ice crystals and small white frost grains covering the whole image, nuanced translucent facets, pale cold ivory and soft blue highlights, no single snowflake, no isolated crystal, no glitter objects. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "8d184a588bf411a340e0f96b242989855a34438530fe9eb375a98bb78c6afb16"
+  },
+  {
+    "id": "champagne-photo",
+    "master": "masters/champagne-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro full-frame pale golden sparkling wine liquid filled with many delicate rising tiny champagne bubbles, variable natural lens sizes and translucent liquid depth distributed across the whole width, elegant soft transmitted light, no glass outline, bottle, label or single bubble cluster. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "6bfee9664d63e50113c315831707ce6617c61c9d4c61ab85d4bed244b748afd1"
+  },
+  {
+    "id": "red-wine-photo",
+    "master": "masters/red-wine-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro full-frame deep ruby-red wine surface, elegant broad liquid ripples and thin wet highlights distributed across the whole frame, translucent garnet variation and subtle meniscus folds, restrained luxurious lighting, no glass outline, bottle, fruit or isolated splash. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "c51d699254040c13e454fa97338be51e75c7d8fdd84bc2d62d4da5f59d8df64d"
+  },
+  {
+    "id": "rose-wine-photo",
+    "master": "masters/rose-wine-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro full-frame dry rose wine-like liquid surface, pale peach and soft blush translucent ripples across the entire field, subtle refractive caustic ribbons and tiny fine bubbles, gentle natural light, no cup, bottle, text or single focal object. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "5b6482110c0ed717244bb81fefc75e8840210651a996cb23c32bdca11152d202"
+  },
+  {
+    "id": "cork-granule-photo",
+    "master": "masters/cork-granule-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro full-frame natural pressed cork surface, warm sand-brown random small cork cells, fibrous granular material with dark thin irregular boundaries covering the whole field, matte diffused light, no bottle, logo, wine stopper silhouette or lettering. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "340429322b4956f6ae3a2ac3b1e15b6657c8d25719bd904013f367aa7147a870"
+  },
+  {
+    "id": "tree-bark-photo",
+    "master": "masters/tree-bark-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Extreme macro full-frame tree bark, fine overlapping silver-gray and warm brown fibrous plates and shallow organic fissures, fine tactile natural microstructure across the entire surface, flat even light, no trunk silhouette, leaves or moss clump. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "da06f88eccbd2ee3a3cd80224679135837a89baa6ae633a9de8bdb1a7b5f5b30"
+  },
+  {
+    "id": "coffee-crema-photo",
+    "master": "masters/coffee-crema-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Overhead macro full-frame dense espresso crema, fine caramel microfoam and irregular tan coffee-oil marbling distributed throughout entire frame, appetizing realistic fine bubbles and subtle creamy swirls, no mug rim, latte art symbol, spoon or isolated focal swirl. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "25cbbcecc324733d9626002f54d001eecf0aadfdf2bcf5e485e261cfc20c14f8"
+  },
+  {
+    "id": "honey-fluid-photo",
+    "master": "masters/honey-fluid-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Macro full-frame thick clear amber honey, many overlapping broad slow glassy folds and small suspended microbubbles across the entire surface, golden translucent studio backlight, no honey dipper, jar, comb, bee or single isolated splash. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "99a3e55f193347e1603e24b7e7dc1b3ef4d3727911afe339b36d5261724c1c2c"
+  },
+  {
+    "id": "watercolor-wash-photo",
+    "master": "masters/watercolor-wash-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Full-frame hand-painted abstract watercolor surface on textured cotton paper, broad overlapping muted blue-green and earth-ochre pigment washes, beautiful granulation, tide lines, natural uneven pigment density spread over the entire sheet, no single isolated brush stroke, no blank left region, no objects or writing. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "c8a78203aad85e1e413297ae612c7bd5ac0f107e22d8b5acc5663d6e0ac69cd6"
+  },
+  {
+    "id": "retro-print-photo",
+    "master": "masters/retro-print-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Full-frame macro of aged cream printed paper with abstract overlapping ink halftone areas, offset registration edges, faded terracotta and muted blue geometric blocks across the whole sheet, tactile mid-century printmaking look, absolutely no words, numbers, logos, letters, recognizable advertisements or single poster object. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "1b0c672d5488266ebf8d81d28cb091b0d3cc4c480cb366db02b969eea637ff49"
+  },
+  {
+    "id": "cinema-bokeh-photo",
+    "master": "masters/cinema-bokeh-photo.png",
+    "prompt": "Use case: product-mockup. Asset type: a website background surface, landscape 16:9, full bleed. Primary request: Full-frame cinematic optical texture, many naturally defocused small warm gold and cool teal practical light circles at different soft focus sizes across a dark charcoal field, restrained gentle luminous atmosphere, no city scene, objects, figures or isolated central light source. The entire frame is the material, with no empty text zone and no single decorative object. Refined detailed physically believable macro/editorial imagery. No text, watermark, frame, mockup, website UI, collage panels or fake transparency checkerboard. This is a composition without guaranteed seamlessness.",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "master_sha256": "a04a603215c0583c0033efc495eb14d8f5886d08b6f0a90c2dc2b308737a3267"
+  }
+]

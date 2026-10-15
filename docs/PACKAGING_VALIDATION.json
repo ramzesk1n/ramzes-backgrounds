@@ -1,0 +1,13 @@
+{
+  "archive_bytes": 13171912,
+  "source_files_verified": 2155,
+  "cold_unpack_and_query_seconds": 0.656,
+  "warm_export_seconds": 0.117,
+  "agent_installations": [
+    "claude: passed",
+    "codex: passed"
+  ],
+  "gallery_matches_source": true,
+  "checksum_rejection": "passed",
+  "unsafe_path_rejection": "passed"
+}

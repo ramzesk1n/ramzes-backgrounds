@@ -1,0 +1,26 @@
+{
+  "tokens": {
+    "primary": "#38534a",
+    "secondary": "#75816c",
+    "accent": "#a36945",
+    "background": "#f2ece0",
+    "surface": "#e5e2d8",
+    "text": "#243128",
+    "muted": "#68745f",
+    "border": "#c1c9b8",
+    "highlight": "#ffffff",
+    "on-image": "#fffaf0"
+  },
+  "bindings": {
+    "primary": "--color-brand-primary",
+    "secondary": "--color-brand-secondary",
+    "accent": "--color-accent",
+    "background": "--color-page",
+    "surface": "--color-surface",
+    "text": "--color-text",
+    "muted": "--color-text-muted",
+    "border": "--color-border",
+    "highlight": "--color-highlight",
+    "on-image": "--color-on-image"
+  }
+}

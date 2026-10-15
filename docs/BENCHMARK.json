@@ -1,0 +1,80 @@
+{
+  "recorded_at_utc": "2026-10-15T18:27:12Z",
+  "python": "3.12.14",
+  "platform": "Linux",
+  "method": "Sequential Python subprocesses; seven runs per lookup/export; installation once per agent; no AI inference or network included.",
+  "metrics": [
+    {
+      "operation": "niche lookup",
+      "runs": 7,
+      "min_ms": 65.52,
+      "median_ms": 73.84,
+      "max_ms": 110.5
+    },
+    {
+      "operation": "guide lookup",
+      "runs": 7,
+      "min_ms": 60.59,
+      "median_ms": 73.3,
+      "max_ms": 126.2
+    },
+    {
+      "operation": "filtered list",
+      "runs": 7,
+      "min_ms": 74.97,
+      "median_ms": 89.07,
+      "max_ms": 183.32
+    },
+    {
+      "operation": "recipe lookup",
+      "runs": 7,
+      "min_ms": 72.52,
+      "median_ms": 128.22,
+      "max_ms": 151.15
+    },
+    {
+      "operation": "export technical-grid",
+      "runs": 7,
+      "min_ms": 72.72,
+      "median_ms": 125.76,
+      "max_ms": 178.6,
+      "site_asset_bytes": 0,
+      "css_bytes": 1088,
+      "css_gzip_bytes": 509
+    },
+    {
+      "operation": "export microcement",
+      "runs": 7,
+      "min_ms": 66.96,
+      "median_ms": 134.19,
+      "max_ms": 146.95,
+      "site_asset_bytes": 40903,
+      "css_bytes": 1086,
+      "css_gzip_bytes": 510
+    },
+    {
+      "operation": "export latte-uniform-photo",
+      "runs": 7,
+      "min_ms": 80.72,
+      "median_ms": 121.53,
+      "max_ms": 146.0,
+      "site_asset_bytes": 160400,
+      "css_bytes": 1129,
+      "css_gzip_bytes": 525
+    },
+    {
+      "operation": "install claude",
+      "runs": 1,
+      "elapsed_ms": 254.52,
+      "installed_export": "passed",
+      "overwrite_protection": "passed"
+    },
+    {
+      "operation": "install codex",
+      "runs": 1,
+      "elapsed_ms": 206.88,
+      "installed_export": "passed",
+      "overwrite_protection": "passed"
+    }
+  ]
+}

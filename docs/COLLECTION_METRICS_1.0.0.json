@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "cards": 400,
+  "niche_guides": 99,
+  "technology": {
+    "CSS": 49,
+    "SVG": 313,
+    "WebP": 38
+  },
+  "placement": {
+    "repeat": 299,
+    "cover": 87,
+    "overlay": 14
+  },
+  "coverage": {
+    "field": 366,
+    "accent": 34
+  },
+  "added": 280,
+  "added_code": 260,
+  "added_rasters": 20,
+  "surface_upgrades": 12,
+  "new_families": 25,
+  "new_svg_raw_max": 102685,
+  "new_svg_gzip_median": 712.5,
+  "new_svg_gzip_max": 20637,
+  "webp_desktop_median": 118159.0,
+  "client_js_bytes": 0
+}

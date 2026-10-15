@@ -1,0 +1,9 @@
+.runtime/
+index.html
+__pycache__/
+*.py[cod]
+.venv/
+.agents/
+.claude/
+.DS_Store
+Thumbs.db

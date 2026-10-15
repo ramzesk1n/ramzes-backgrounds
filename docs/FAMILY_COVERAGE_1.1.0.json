@@ -1,0 +1,278 @@
+[
+  {
+    "family": "Геометрия",
+    "before": 8,
+    "added": 4,
+    "after": 12
+  },
+  {
+    "family": "Свет",
+    "before": 8,
+    "added": 4,
+    "after": 12
+  },
+  {
+    "family": "Поверхности",
+    "before": 1,
+    "added": 5,
+    "after": 6
+  },
+  {
+    "family": "Материалы",
+    "before": 13,
+    "added": 0,
+    "after": 13
+  },
+  {
+    "family": "Прозрачные слои",
+    "before": 7,
+    "added": 0,
+    "after": 7
+  },
+  {
+    "family": "Плетения",
+    "before": 3,
+    "added": 4,
+    "after": 7
+  },
+  {
+    "family": "Промышленная графика",
+    "before": 3,
+    "added": 4,
+    "after": 7
+  },
+  {
+    "family": "Схемы",
+    "before": 8,
+    "added": 6,
+    "after": 14
+  },
+  {
+    "family": "Природная графика",
+    "before": 2,
+    "added": 6,
+    "after": 8
+  },
+  {
+    "family": "Данные",
+    "before": 1,
+    "added": 7,
+    "after": 8
+  },
+  {
+    "family": "Фотореалистичные материалы",
+    "before": 6,
+    "added": 0,
+    "after": 6
+  },
+  {
+    "family": "Наноматериалы",
+    "before": 8,
+    "added": 0,
+    "after": 8
+  },
+  {
+    "family": "Энергия и оптика",
+    "before": 12,
+    "added": 0,
+    "after": 12
+  },
+  {
+    "family": "Металлы и патина",
+    "before": 14,
+    "added": 9,
+    "after": 23
+  },
+  {
+    "family": "Beauty и косметика",
+    "before": 7,
+    "added": 2,
+    "after": 9
+  },
+  {
+    "family": "Краски и нанесение",
+    "before": 7,
+    "added": 0,
+    "after": 7
+  },
+  {
+    "family": "Жидкости и пена",
+    "before": 12,
+    "added": 0,
+    "after": 12
+  },
+  {
+    "family": "Энергия и сырьё",
+    "before": 13,
+    "added": 0,
+    "after": 13
+  },
+  {
+    "family": "Фрукты и семена",
+    "before": 17,
+    "added": 2,
+    "after": 19
+  },
+  {
+    "family": "Канаты и текстиль",
+    "before": 14,
+    "added": 0,
+    "after": 14
+  },
+  {
+    "family": "Природные сети",
+    "before": 11,
+    "added": 0,
+    "after": 11
+  },
+  {
+    "family": "Снег и погода",
+    "before": 11,
+    "added": 0,
+    "after": 11
+  },
+  {
+    "family": "Геология и эрозия",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Бумага и печатные процессы",
+    "before": 11,
+    "added": 0,
+    "after": 11
+  },
+  {
+    "family": "Ретро: 1890–1930-е",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Ретро: 1940–1970-е",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Ретро: 1980–2000-е",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Иллюстрация и ручная графика",
+    "before": 13,
+    "added": 0,
+    "after": 13
+  },
+  {
+    "family": "Комиксы и манга",
+    "before": 12,
+    "added": 0,
+    "after": 12
+  },
+  {
+    "family": "Кино и оптическая атмосфера",
+    "before": 13,
+    "added": 0,
+    "after": 13
+  },
+  {
+    "family": "Футуризм и вычислительные формы",
+    "before": 12,
+    "added": 0,
+    "after": 12
+  },
+  {
+    "family": "Орнаменты и тесселяции",
+    "before": 12,
+    "added": 0,
+    "after": 12
+  },
+  {
+    "family": "Ремесленная керамика",
+    "before": 8,
+    "added": 0,
+    "after": 8
+  },
+  {
+    "family": "Древесина и тиснение",
+    "before": 10,
+    "added": 1,
+    "after": 11
+  },
+  {
+    "family": "Промышленные поверхности",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Праздничные материалы",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Биоморфные структуры",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Вино и игристые напитки",
+    "before": 13,
+    "added": 0,
+    "after": 13
+  },
+  {
+    "family": "Море и ландшафт",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Анималистичные фактуры",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Текстильные орнаменты",
+    "before": 10,
+    "added": 0,
+    "after": 10
+  },
+  {
+    "family": "Пищевые и кухонные фактуры",
+    "before": 10,
+    "added": 13,
+    "after": 23
+  },
+  {
+    "family": "Пластики и эластомеры",
+    "before": 0,
+    "added": 10,
+    "after": 10
+  },
+  {
+    "family": "Песок, грунт и галька",
+    "before": 0,
+    "added": 9,
+    "after": 9
+  },
+  {
+    "family": "Кожа и кожгалантерея",
+    "before": 0,
+    "added": 9,
+    "after": 9
+  },
+  {
+    "family": "Химические структуры",
+    "before": 0,
+    "added": 5,
+    "after": 5
+  }
+]

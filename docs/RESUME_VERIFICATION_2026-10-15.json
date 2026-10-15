@@ -1,0 +1,75 @@
+{
+  "checked_at_utc": "2026-10-15T16:43:53.274921+00:00",
+  "version": "1.0.0",
+  "used_existing_materials": true,
+  "new_materials_generated": false,
+  "original_package": {
+    "files": 1758,
+    "archive_bytes": 130565518,
+    "catalog_bytes": 15935296,
+    "archive_sha256": "27f579b0e8232187e40a1e0079947d6c248607fe2dd6c121e7e9b7f849690df6",
+    "catalog_sha256": "32b19ff9c6aac2df219e0ee8ef9bb17a0f4c3f66c295a3183a9f4155dbc70d63"
+  },
+  "original_archive": {
+    "fully_read": true,
+    "matching_source_files": 1758,
+    "different_files": [],
+    "missing_files": []
+  },
+  "automated_validation": {
+    "status": "passed",
+    "plain_exports": 400,
+    "accent_exports": 12,
+    "neon_exports": 16,
+    "niche_guides": 99,
+    "repeatable_recipes": 299,
+    "full_surfaces": 366,
+    "local_accents": 34,
+    "live_css_bindings": "passed",
+    "svg_xml": "passed",
+    "webp_decode": "passed",
+    "skill_installation": "passed",
+    "js_syntax_and_pure_functions": "passed",
+    "dependency_and_lock_hashes": "passed",
+    "overwrite_protection": "passed"
+  },
+  "standalone_html": {
+    "matches_project_index": true,
+    "matches_source_catalog": true,
+    "embedded_assets_verified": 415,
+    "external_src_or_href": [],
+    "duplicate_static_ids": 0,
+    "sha256": "32b19ff9c6aac2df219e0ee8ef9bb17a0f4c3f66c295a3183a9f4155dbc70d63"
+  },
+  "portable_skill": {
+    "library_matches_main_sources": true
+  },
+  "browser_qa": {
+    "status": "not_completed",
+    "attempts": [
+      "Remote Chrome could not connect to the workspace HTTP server: ERR_CONNECTION_REFUSED.",
+      "Opening the synchronized local HTML file was blocked by browser URL security policy."
+    ],
+    "workaround_attempted_after_policy_block": false,
+    "not_verified": [
+      "visual layout",
+      "CSS gradients",
+      "dialog",
+      "clipboard",
+      "downloads",
+      "keyboard focus",
+      "390/768/1440/1920 viewport layouts",
+      "live theme changes"
+    ]
+  },
+  "changes_after_checks": [
+    "Updated QA and handoff documentation.",
+    "Added this verification record.",
+    "Repacked the archive and verified every contained file against the project."
+  ],
+  "unchanged": [
+    "All 400 material recipes and their assets.",
+    "Standalone HTML catalog.",
+    "Portable skill."
+  ]
+}

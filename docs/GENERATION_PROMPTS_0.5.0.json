@@ -1,0 +1,82 @@
+[
+  {
+    "id": "lacquer-liquid-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: A full-frame abstract macro surface of deep oxblood burgundy nail lacquer, one broad smooth flowing ridge on the right, a glossy thick liquid meniscus and narrow clean studio softbox reflections, quieter dark burgundy left half, physically believable viscous cosmetic polish, no nails or hands, no container. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/lacquer-liquid-photo.png",
+    "master_sha256": "83d5e760ef800bb178ba379bd91c76a256559379b9f63a8e1b5d8203df59bd76"
+  },
+  {
+    "id": "makeup-skin-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: An extreme editorial beauty macro of a small area of an adult woman's cheek, naturally medium warm beige skin with sheer luminous foundation and a soft peach cosmetic powder gradient. Real fine pores, subtle peach fuzz, carefully blended satin makeup, soft lateral light, no eye, lip, nose, hair, jewelry or identifiable face. Respectful cosmetic material study, skin fills frame completely, no anatomy besides cheek surface. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/makeup-skin-photo.png",
+    "master_sha256": "83adfaa0c009374c31d0eb4ddd45fc900c271377698812a76e7245935d65a003"
+  },
+  {
+    "id": "cream-swirl-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: Thick fresh ivory sour cream, one slow broad spatula fold and soft peak on right side, smooth dense edible fermented dairy texture, delicate microscopic air inclusions, quieter flat left region, top-down macro, soft natural studio light, no bowl, spoon, packaging, props, garnish. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/cream-swirl-photo.png",
+    "master_sha256": "3cf9f4ea525deb3c62af38b9058e221acdaa67e0b528b21795a6820f7d9c0a20"
+  },
+  {
+    "id": "berry-smoothie-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: Full-frame overhead macro of a dense berry smoothie, muted raspberry pink with tiny naturally distributed dark seeds and fine berry pulp, one broad low curved stirring ridge at the right, subtle wet sheen, calmer flatter left half, appetizing realistic drink texture, no fruit objects, cup, straw or packaging. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/berry-smoothie-photo.png",
+    "master_sha256": "6c036a8adb30ceeba7495701c290ac0c940feb39fb470199673abf81aec41830"
+  },
+  {
+    "id": "green-smoothie-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: Full-frame overhead macro of a pale pistachio green avocado and spinach smoothie, dense velvety suspension with tiny natural green fiber flecks, one gentle curved creamy fold on right, minimal micro air bubbles, softly luminous softbox light, calmer flatter left area, no vessel, utensils, garnish or fruit objects. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/green-smoothie-photo.png",
+    "master_sha256": "74ce28b2e3baa01d59a331e7e9a5680ff603ed6f4bf9c7b96aa81a6bc1fb6e61"
+  },
+  {
+    "id": "oil-water-suspension-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: Full-frame scientific aesthetic macro of suspended clear amber oil droplets in a transparent pale warm watery liquid. A varied sparse population of circular lenses of different sizes, physically believable rounded interfaces, delicate refractive edges, calm negative space on left, softly illuminated white backdrop, no colored rainbow fantasy, no glass container or instruments. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/oil-water-suspension-photo.png",
+    "master_sha256": "0cd1b6d0f53e9ea2ad87fb5b58c55ca051bb439bd701ec9770e403fbca5be28d"
+  },
+  {
+    "id": "microfoam-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: Full-frame macro of fresh wet white cleansing foam, dense tiny bubbles with a few larger translucent cells at the right edge, pearly thin fluid membranes, realistic white-on-ivory soft shadows, no rainbow exaggeration, calmer less detailed left half, no bottle, soap bar, hands or objects. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/microfoam-photo.png",
+    "master_sha256": "d5326425f23260359e5ca9f4b07ecf690540405a9fa6567cd5f8fbf37e2b8670"
+  },
+  {
+    "id": "spray-paint-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: Full-frame macro of fine terracotta rust-red spray paint pigment on warm off-white matte paper. A broad smooth airbrushed pigment cloud concentrated on right fading naturally toward near-empty left, thousands of very fine dry overspray speckles, no writing, symbols, graffiti lettering, spray can, stencil or drips, believable studio surface. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/spray-paint-photo.png",
+    "master_sha256": "bc38e374c700eacfaf61584ff22a2b75d11040f2b63ddfdfd79a9fe196cf0205"
+  },
+  {
+    "id": "liquid-chrome-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: Full-frame abstract premium material macro of polished liquid-like chromium metal, one broad gently folded mirrored silver ridge at the right reflecting large white and black studio cards, elegant restrained contrasts, calmer brushed pale silver left area, photorealistic metal surface, no object, logo, environment details, colored neon or rainbow. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/liquid-chrome-photo.png",
+    "master_sha256": "73bc6fe7a218e931ddf8ec42a532e5bd988b3ad0e598f12b6513fef0e2491de9"
+  },
+  {
+    "id": "copper-patina-photo",
+    "tool": "built-in image_gen",
+    "transparent_background": false,
+    "prompt": "Use case: product-mockup. Asset type: website background material, wide horizontal landscape 16:9. Primary request: Full-frame macro of aged copper plate, fine matte turquoise and muted verdigris mineral patina covering irregular islands, warm reddish copper metal exposed between them, subtle granular oxide surface and a few thin soft scratches, no bold crack pattern, evenly lit, restrained contrast suitable behind web content, no objects or text. Style: premium physically realistic macro material photography, full bleed, refined low visual noise, no text, letters, watermark, border, collage or multiple panels. This is a single material image, not a website screenshot. Do not add a simulated transparency checkerboard. Composition is a non-repeating cover; no seamless claim.",
+    "master": "masters/copper-patina-photo.png",
+    "master_sha256": "a904bae3fcbe91c4644ddffece02140a5673ddb3fb354438c41fb5551a784221"
+  }
+]

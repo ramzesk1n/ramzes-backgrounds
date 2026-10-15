@@ -1,0 +1,10 @@
+{
+  "version": "0.4.0",
+  "new_recipes": 20,
+  "new_svg_raw_bytes": 48720,
+  "new_svg_gzip_bytes": 6552,
+  "new_css_recipe_gzip_bytes": 7332,
+  "total_desktop_asset_bytes": 1134357,
+  "new_client_js_bytes": 0,
+  "caveat": "Recipe gzip does not include per-export theme aliases or HTTP headers. SVG gzip requires server compression."
+}

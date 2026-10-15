@@ -1,0 +1,46 @@
+{
+  "generated_assets": [
+    {
+      "id": "travertine-surface",
+      "tool": "built-in imagegen",
+      "transparent_background": false,
+      "source": "generated_images/exec-c7c465b0-581e-40da-890d-587243d296ec.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website material background, landscape 16:9. Primary request: one continuous close-up material surface: warm ivory travertine, fine natural pores, subtle horizontal sediment, matte stone, low contrast, no large cracks. Orthographic flat material study filling the whole frame. Quiet uniform illumination, generous visually calm center usable behind website copy. Realistic fine surface detail. This is a texture asset, not a photograph of a room or product. No text, no labels, no logo, no typography, no watermark, no framing, no UI, no furniture, no people. No vignette or hard spotlight baked into it. Full opaque background. Prefer 1536x864 or similar landscape resolution."
+    },
+    {
+      "id": "oak-veneer-photo",
+      "tool": "built-in imagegen",
+      "transparent_background": false,
+      "source": "generated_images/exec-6acc7bbc-fe3c-44a6-af0e-ba3965a10bff.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website material background, landscape 16:9. Primary request: one continuous close-up material surface: natural pale oak veneer, fine straight grain, no knots, no planks, warm neutral wood, quiet even texture. Orthographic flat material study filling the whole frame. Quiet uniform illumination, generous visually calm center usable behind website copy. Realistic fine surface detail. This is a texture asset, not a photograph of a room or product. No text, no labels, no logo, no typography, no watermark, no framing, no UI, no furniture, no people. No vignette or hard spotlight baked into it. Full opaque background. Prefer 1536x864 or similar landscape resolution."
+    },
+    {
+      "id": "satin-folds-photo",
+      "tool": "built-in imagegen",
+      "transparent_background": false,
+      "source": "generated_images/exec-1ec1cd3b-6b1a-4fc9-a2a9-d17a2fa0b802.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website material background, landscape 16:9. Primary request: one continuous close-up material surface: ivory champagne satin, broad shallow diagonal folds, restrained soft specular highlights, no objects. Orthographic flat material study filling the whole frame. Quiet uniform illumination, generous visually calm center usable behind website copy. Realistic fine surface detail. This is a texture asset, not a photograph of a room or product. No text, no labels, no logo, no typography, no watermark, no framing, no UI, no furniture, no people. No vignette or hard spotlight baked into it. Full opaque background. Prefer 1536x864 or similar landscape resolution."
+    },
+    {
+      "id": "velvet-photo",
+      "tool": "built-in imagegen",
+      "transparent_background": false,
+      "source": "generated_images/exec-e1e0c77b-2734-43f8-beb3-4cbb69fe966c.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website material background, landscape 16:9. Primary request: one continuous close-up material surface: deep graphite velvet, large soft shallow folds along edges, subtle nap, nearly black but visible texture, calm center. Orthographic flat material study filling the whole frame. Quiet uniform illumination, generous visually calm center usable behind website copy. Realistic fine surface detail. This is a texture asset, not a photograph of a room or product. No text, no labels, no logo, no typography, no watermark, no framing, no UI, no furniture, no people. No vignette or hard spotlight baked into it. Full opaque background. Prefer 1536x864 or similar landscape resolution."
+    },
+    {
+      "id": "ceramic-glaze-photo",
+      "tool": "built-in imagegen",
+      "transparent_background": false,
+      "source": "generated_images/exec-4a000677-57be-42cf-ac03-0bc7a5d254f7.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website material background, landscape 16:9. Primary request: one continuous close-up material surface: warm off-white ceramic glaze with delicate grey blue irregular speckles, faint crazing, very subtle gloss, no tiles or grout. Orthographic flat material study filling the whole frame. Quiet uniform illumination, generous visually calm center usable behind website copy. Realistic fine surface detail. This is a texture asset, not a photograph of a room or product. No text, no labels, no logo, no typography, no watermark, no framing, no UI, no furniture, no people. No vignette or hard spotlight baked into it. Full opaque background. Prefer 1536x864 or similar landscape resolution."
+    },
+    {
+      "id": "brushed-aluminum-photo",
+      "tool": "built-in imagegen",
+      "transparent_background": false,
+      "source": "generated_images/exec-8acc6da5-c472-43c1-ab03-1066cd0ad5d1.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website material background, landscape 16:9. Primary request: one continuous close-up material surface: satin brushed aluminum, fine horizontal micro scratches, neutral cool grey, soft even reflection, no strong highlights. Orthographic flat material study filling the whole frame. Quiet uniform illumination, generous visually calm center usable behind website copy. Realistic fine surface detail. This is a texture asset, not a photograph of a room or product. No text, no labels, no logo, no typography, no watermark, no framing, no UI, no furniture, no people. No vignette or hard spotlight baked into it. Full opaque background. Prefer 1536x864 or similar landscape resolution."
+    }
+  ]
+}

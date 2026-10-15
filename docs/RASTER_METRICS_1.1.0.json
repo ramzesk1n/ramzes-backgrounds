@@ -1,0 +1,362 @@
+[
+  {
+    "id": "grilled-meat-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 34,
+    "bytes": 225542,
+    "target_budget": 225280
+  },
+  {
+    "id": "grilled-meat-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 56,
+    "bytes": 109880,
+    "target_budget": 114688
+  },
+  {
+    "id": "marbled-beef-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 164564,
+    "target_budget": 225280
+  },
+  {
+    "id": "marbled-beef-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 71898,
+    "target_budget": 114688
+  },
+  {
+    "id": "seedless-watermelon-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 171458,
+    "target_budget": 225280
+  },
+  {
+    "id": "seedless-watermelon-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 67216,
+    "target_budget": 114688
+  },
+  {
+    "id": "mango-flesh-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 80490,
+    "target_budget": 225280
+  },
+  {
+    "id": "mango-flesh-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 29866,
+    "target_budget": 114688
+  },
+  {
+    "id": "crystallized-honey-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 114238,
+    "target_budget": 225280
+  },
+  {
+    "id": "crystallized-honey-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 47060,
+    "target_budget": 114688
+  },
+  {
+    "id": "full-grain-leather-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 148382,
+    "target_budget": 225280
+  },
+  {
+    "id": "full-grain-leather-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 53390,
+    "target_budget": 114688
+  },
+  {
+    "id": "suede-nap-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 200572,
+    "target_budget": 225280
+  },
+  {
+    "id": "suede-nap-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 67824,
+    "target_budget": 114688
+  },
+  {
+    "id": "saffiano-leather-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 40,
+    "bytes": 206764,
+    "target_budget": 225280
+  },
+  {
+    "id": "saffiano-leather-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 111618,
+    "target_budget": 114688
+  },
+  {
+    "id": "sand-grains-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 48,
+    "bytes": 214514,
+    "target_budget": 225280
+  },
+  {
+    "id": "sand-grains-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 108748,
+    "target_budget": 114688
+  },
+  {
+    "id": "river-pebbles-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 209826,
+    "target_budget": 225280
+  },
+  {
+    "id": "river-pebbles-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 76106,
+    "target_budget": 114688
+  },
+  {
+    "id": "garden-soil-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 40,
+    "bytes": 210584,
+    "target_budget": 225280
+  },
+  {
+    "id": "garden-soil-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 112276,
+    "target_budget": 114688
+  },
+  {
+    "id": "zinc-etched-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 40,
+    "bytes": 213574,
+    "target_budget": 225280
+  },
+  {
+    "id": "zinc-etched-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 93416,
+    "target_budget": 114688
+  },
+  {
+    "id": "vanadium-metal-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 56,
+    "bytes": 204954,
+    "target_budget": 225280
+  },
+  {
+    "id": "vanadium-metal-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 74742,
+    "target_budget": 114688
+  },
+  {
+    "id": "matte-plastic-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 76466,
+    "target_budget": 225280
+  },
+  {
+    "id": "matte-plastic-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 30174,
+    "target_budget": 114688
+  },
+  {
+    "id": "woods-alloy-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 56,
+    "bytes": 208782,
+    "target_budget": 225280
+  },
+  {
+    "id": "woods-alloy-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 89900,
+    "target_budget": 114688
+  },
+  {
+    "id": "coconut-flesh-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 38286,
+    "target_budget": 225280
+  },
+  {
+    "id": "coconut-flesh-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 14664,
+    "target_budget": 114688
+  },
+  {
+    "id": "latte-uniform-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 116618,
+    "target_budget": 225280
+  },
+  {
+    "id": "latte-uniform-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 43782,
+    "target_budget": 114688
+  },
+  {
+    "id": "endgrain-board-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 34,
+    "bytes": 203372,
+    "target_budget": 225280
+  },
+  {
+    "id": "endgrain-board-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 98104,
+    "target_budget": 114688
+  },
+  {
+    "id": "permanganate-crystals-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 173528,
+    "target_budget": 225280
+  },
+  {
+    "id": "permanganate-crystals-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 77306,
+    "target_budget": 114688
+  },
+  {
+    "id": "translucent-resin-photo",
+    "mobile": false,
+    "width": 1440,
+    "height": 810,
+    "quality": 64,
+    "bytes": 130964,
+    "target_budget": 225280
+  },
+  {
+    "id": "translucent-resin-photo",
+    "mobile": true,
+    "width": 800,
+    "height": 450,
+    "quality": 64,
+    "bytes": 52332,
+    "target_budget": 114688
+  }
+]
